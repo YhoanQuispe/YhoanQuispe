@@ -33,5 +33,5 @@ I build clean, scalable software solutions and optimize robust tech infrastructu
 I am currently **open to interesting projects and freelance contracts**. If you need a reliable developer to bring your technical vision to life or optimize your existing infrastructure, let's connect!
 
 *   📧 **Email:** [yhoanquispe04@gmail.com](mailto:yhoanquispe04@gmail.com)
-*   💼 **LinkedIn:** [Your LinkedIn Profile URL Here]
+*   💼 **LinkedIn:** [https://www.linkedin.com/in/yhoan-quispe]
 *   🌐 **Portfolio:** [Your Portfolio Website URL Here]
